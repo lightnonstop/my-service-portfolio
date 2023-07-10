@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <nav className='app__navbar'>
       <div className='app__navbar-logo'>
-        <span>Unwana</span>
+        <span>UM</span>
       </div>
       <ul className='app__navbar-links'>
         {['home', 'about', 'work', 'skills', 'contact'].map(item => (
